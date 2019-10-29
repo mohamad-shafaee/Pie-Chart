@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pie Chart</string>
+    <string name="Iran">ایران</string>
+    <string name="Turkey">ترکیه</string>
+    <string name="Germany">آلمان</string>
+    <string name="Japan">ژاپن</string>
+    <string name="Thiland">تایلند</string>
+    <string name="China">چین</string>
+    <string name="Qatar">قطر</string>
+</resources>
